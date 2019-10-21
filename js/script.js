@@ -12,3 +12,6 @@ console.log('Переменная addExpenses = ' + addExpenses);
 console.log('Переменная deposit = ' + deposit);
 console.log('Переменная mission = ' + mission);
 console.log('Переменная period = ' + period);
+
+let text = 'Урок Первый'
+alert(text);
